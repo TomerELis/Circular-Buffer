@@ -1,11 +1,11 @@
-# 🌀 Circular Buffer in Python (OOP)
+# Circular Buffer in Python (OOP)
 
 Implemented a **circular buffer** in Python using **object-oriented programming**.  
 Designed a custom `CircularBuffer` class with methods for `push`, `pop`, `peek`, and dynamic `resize`.
 
 ---
 
-## 🔧 Design Decisions
+## Design Decisions
 
 - Used a Python `list` to represent the buffer.
 - Maintained `head`, `tail`, and `count` to track state and support circular indexing.
@@ -16,7 +16,7 @@ Designed a custom `CircularBuffer` class with methods for `push`, `pop`, `peek`,
 
 ---
 
-## ✅ Edge Cases Handled
+## Edge Cases Handled
 
 - **Full buffer overwrite**: Replaces the oldest item when pushing to a full buffer.
 - **Pop/peek from empty buffer**: Returns `None` and shows a message without crashing.
