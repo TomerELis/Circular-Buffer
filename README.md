@@ -3,7 +3,8 @@
 Implemented a **circular buffer** in Python using **object-oriented programming**.  
 Designed a custom `CircularBuffer` class with methods for `push`, `pop`, `peek`, and dynamic `resize`.
 
-![image](https://github.com/user-attachments/assets/949cddb1-846b-4237-abc7-7853a4070a4a)
+<img src="https://github.com/user-attachments/assets/949cddb1-846b-4237-abc7-7853a4070a4a" width="400"/>
+
 
 ---
 
